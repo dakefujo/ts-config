@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es2023",
+        "lib": ["es2023"],
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "isolatedModules": true,
+        "module": "preserve",
+        "moduleDetection": "force",
+        "moduleResolution": "bundler",
+        "noEmit": true,
+        "noErrorTruncation": true,
+        "noImplicitOverride": true,
+        "noUncheckedIndexedAccess": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "useDefineForClassFields": true,
+        "verbatimModuleSyntax": true
+    }
+}

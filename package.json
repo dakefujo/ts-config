@@ -1,0 +1,29 @@
+{
+    "name": "@dakefujo/ts-config",
+    "version": "1.0.0",
+    "description": "A base tsconfig.",
+    "main": "tsconfig.json",
+    "author": "dakefujo",
+    "license": "MIT",
+    "keywords": ["tsconfig", "vue"],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dakefujo/ts-config.git"
+    },
+    "packageManager": "pnpm@9.15.4",
+    "scripts": {
+        "pub": "npm publish --access=public"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0",
+        "vue": "^3.4.0"
+    },
+    "peerDependenciesMeta": {
+        "typescript": {
+            "optional": true
+        },
+        "vue": {
+            "optional": true
+        }
+    }
+}
