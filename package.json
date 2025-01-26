@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A base tsconfig.",
     "main": "tsconfig.json",
-    "author": "dakefujo",
+    "author": "Dake Fujo",
     "license": "MIT",
     "keywords": ["tsconfig", "vue"],
     "repository": {
